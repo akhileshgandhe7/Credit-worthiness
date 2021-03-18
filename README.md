@@ -13,3 +13,5 @@ old_dependents, young_dependents
 water_availability
 • Loan Details: loan_purpose, loan_tenure, loan_installments, loan_amount (these contain loan details
 of loans that have been previously given, and which have been repaid)
+
+Note: If the jupyter notebook is not loading up, you can view the code in ML Model preview.
